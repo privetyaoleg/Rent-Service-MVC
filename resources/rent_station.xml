@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<station xmlns="http://www.example.org/station_schema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/station_schema station_schema.xsd">
+
+	<equipment id="1">
+		<title>Sportcar: Ferrari s3</title>
+		<category>CARS</category>
+		<price>210.2</price>
+		<addition amount="1">
+			<title>First aid kit</title>
+			<category>ACCESSORY</category>
+		</addition>
+		<addition amount="4">
+			<title>Wheels</title>
+			<category>ACCESSORY</category>
+		</addition>
+	</equipment>
+
+
+	<equipment id="2">
+		<title>XBOX: 360</title>
+		<category>CONSOLE</category>
+		<price>99.2</price>
+	</equipment>
+
+
+	<equipment id="3">
+		<title>BMW: x5</title>
+		<category>CARS</category>
+		<price>119.2</price>
+		<addition amount="1">
+			<title>First aid kit</title>
+			<category>ACCESSORY</category>
+		</addition>
+		<addition amount="4">
+			<title>Wheels</title>
+			<category>ACCESSORY</category>
+		</addition>
+	</equipment>
+
+	<equipment id="4">
+		<title>Bike: GTX-98x</title>
+		<category>ACTIVE</category>
+		<price>29.2</price>
+		<addition amount="1">
+			<title>Helmet</title>
+			<category>PROTECTION</category>
+		</addition>
+	</equipment>
+
+	<equipment id="5">
+		<title>GoPRO SILVER 4+</title>
+		<category>CAMERA</category>
+		<price>39.2</price>
+		<addition amount="1">
+			<title>Clamping for bike</title>
+			<category>ACCESSORY</category>
+		</addition>
+	</equipment>
+
+	<equipment id="6">
+		<title>Skates: NikeIce</title>
+		<category>WINTER</category>
+		<price>25.2</price>
+	</equipment>
+
+	<equipment id="7">
+		<title>Skiing: MUSTANG09</title>
+		<category>WINTER</category>
+		<price>29.2</price>
+	</equipment>
+	
+	
+	<equipment id="8">
+		<title>SONY: Play Station 4</title>
+		<category>CONSOLE</category>
+		<price>77.2</price>
+		<addition amount="2">
+			<title>Joysticks for PS</title>
+			<category>ACCESSORY</category>
+		</addition>
+	</equipment>
+
+
+
+
+
+
+</station>
