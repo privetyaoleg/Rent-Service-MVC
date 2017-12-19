@@ -1,6 +1,17 @@
-Sportcar: Ferrari s3 , 210.2 , CARS
-XBOX: 360 , 99.2 , CONSOLE
-GoPRO SILVER 4+ , 39.2 , CAMERA
-Skates: NikeIce , 25.2 , WINTER
-Skiing: MUSTANG09 , 29.2 , WINTER
-SONY: Play Station 4 , 77.2 , CONSOLE
+GoPro: HERO4+ , 99.2 , CAMERA
+Skiing: MUSTANG09 , 20.05 , SWIMMING
+Skates: Reebok20 , 28.0 , WINTER
+Bike: GTX - 2390 , 26.9 , ACTIVE
+Surfboard: SEASURF , 25.0 , SWIMMING
+ActionCamera: XIAOMI x55 , 98.2 , CAMERA
+Snowmobile: SUBARU 99 , 189.9 , WINTER
+Submarine: YELLOW , 999.0 , OTHER
+GoPro: Silver+ , 10.0 , OTHER
+XBOX: 360 , 25.5 , OTHER
+PS: 4 , 24.9 , CONSOLE
+Bike: AIST-92 , 25.0 , ACTIVE
+Skates: NikeIce , 88.3 , WINTER
+Sportcar: Lamborgini 89, 1200.5 , ACTIVE
+Sportcar: Ferrari s3, 2900.2 , ACTIVE
+GoPRO SILVER 4+ , 39.2 , CAMERA 
+Bike: GTX-98x , 29.2 , ACTIVE
